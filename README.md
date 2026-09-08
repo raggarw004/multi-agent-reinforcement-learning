@@ -1,7 +1,7 @@
 # Multi-Agent Reinforcement Learning
 
-A cooperative multi-agent reinforcement learning project using a custom grid
-environment and a shared PPO actor-critic policy.
+A cooperative multi agent reinforcement learning project using a custom grid
+environment and a shared PPO actor critic policy.
 
 Every agent observes its own location, the direction of the nearest uncollected
 target, progress, and remaining time. Agents receive shared rewards for target
